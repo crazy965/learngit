@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 I Hate My Boss.
 Create a new branch is quick.
+try no--ff merge
